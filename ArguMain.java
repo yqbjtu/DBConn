@@ -24,7 +24,6 @@ public class ArguMain {
 			System.exit(-1);
 		}
 		
-        
 		String args0 = args[0];
 		String args1 = args[1];
 		String args2 = args[2];
@@ -32,8 +31,6 @@ public class ArguMain {
 			
 		try {
 			System.out.println(" Paramter(0):"+args0+" (1)"+args1+"   (2)"+args2);
-			
-
 		} catch (Exception e) {
 			e.printStackTrace();
 
