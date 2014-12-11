@@ -1,10 +1,7 @@
 
 import java.io.IOException;
 
-
-
-
-/** ArguMain class
+/** ArguMain class for ci demo
  *
  * @author YangQian 2014-01-20
  */
