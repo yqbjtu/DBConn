@@ -3,7 +3,7 @@ import java.io.IOException;
 
 /** ArguMain class for ci demo
  *
- * @author YangQian 2014-01-20
+ * @author YangQian 2014-12-20
  */
 public class ArguMain {
 
