@@ -1,4 +1,5 @@
 /*
-  this is common utils tool class
+  this is common utils tool classes
+  The class will be static class
 
 */
