@@ -19,7 +19,7 @@ public class ArguMain {
 
 		} else { 
 			System.out.println("Usage  :java  -jar ArguMain  dbtype "sql\"");
-			System.out.println("such as:java  -jar ArguMain  derby04  \"select * from users\"");
+			System.out.println("such as:java  -jar ArguMain  oracle04  \"select * from users\"");
 			System.out.println("Note:please make sure that the specified user exist.");
 			System.exit(-1);
 		}
