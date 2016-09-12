@@ -9,3 +9,4 @@ derby.properties, mysql.properties,oracle.properties, sqlserver.properties
 such as mysql.properties
 username=root
 password=xxxx
+driverClass=com.mysql.jdbc.Driver
