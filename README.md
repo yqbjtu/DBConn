@@ -5,3 +5,6 @@ This is a DB conn demo project, which can connect the derby, mysql, oracle and s
 
 you can call it by CLI, before this you need to configure the properties file, there are 4 sample properties
 derby.properties, mysql.properties,oracle.properties, sqlserver.properties
+
+such as mysql.properties
+username=root
