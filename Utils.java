@@ -1,7 +1,7 @@
 /*
   this is common utils tool classes
   The class will be static class
-
+   @Author yangqian
 */
 
 public Class Utils {
