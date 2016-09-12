@@ -18,8 +18,8 @@ public class ArguMain {
 		if (args.length >= 3) {
 
 		} else { 
-			System.out.println("Usage  :java  -jar ArguMain  consoleIP      port  username password userToMgr preferenceToDelete");
-			System.out.println("such as:java  -jar ArguMain  192.168.2.211  3966  root     pwOfRoot usr1  海外核心");
+			System.out.println("Usage  :java  -jar ArguMain  dbtype "sql\"");
+			System.out.println("such as:java  -jar ArguMain  mysql \"select * from users\"");
 			System.out.println("Note:please make sure that the specified user exist.");
 			System.exit(-1);
 		}
