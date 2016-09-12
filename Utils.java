@@ -1,6 +1,7 @@
 /*
   this is common utils tool classes
   The class will be static class
+  License demo
    @Author yangqian
 */
 
