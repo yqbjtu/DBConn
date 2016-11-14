@@ -10,33 +10,33 @@ import java.io.IOException;
  */
 public class ArguMain {
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		if (args.length >= 3) {
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+        if (args.length >= 3) {
 
-		} else { 
-			System.out.println("Usage  :java  -jar ArguMain  dbtype "sql\"");
-			System.out.println("such as:java  -jar ArguMain  mysql6  \"select * from users\"");
-			System.out.println("Note:please make sure that the specified user exist.");
-			System.exit(-1);
-		}
-		
-		String args0 = args[0];
-		String args1 = args[1];
-		String args2 = args[2];
+        } else { 
+            System.out.println("Usage  :java  -jar ArguMain  dbtype "sql\"");
+            System.out.println("such as:java  -jar ArguMain  mysql6  \"select * from users\"");
+            System.out.println("Note:please make sure that the specified user exist.");
+            System.exit(-1);
+        }
+        
+        String args0 = args[0];
+        String args1 = args[1];
+        String args2 = args[2];
 
-			
-		try {
-			System.out.println(" Paramter(0):"+args0+" (1)"+args1+"   (2)"+args2);
-		} catch (Exception e) {
-			e.printStackTrace();
+            
+        try {
+            System.out.println(" Paramter(0):"+args0+" (1)"+args1+"   (2)"+args2);
+        } catch (Exception e) {
+            e.printStackTrace();
 
-		} finally {
-			
-		}
-	}
+        } finally {
+            
+        }
+    }
 
 }

@@ -10,3 +10,6 @@ such as mysql.properties
 username=root
 password=xxxx
 driverClass=com.mysql.jdbc.Driver
+dburl=jdbc:mysql://localhost:3306/dbname
+
+
