@@ -12,4 +12,6 @@ password=xxxx
 driverClass=com.mysql.jdbc.Driver
 dburl=jdbc:mysql://localhost:3306/dbname
 
+v001Test
+
 
